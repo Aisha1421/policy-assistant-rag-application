@@ -7,3 +7,4 @@ __pycache__/
 !.env.example
 "@ | Set-Content .gitignoretest_models.py
 test_models.py
+test_gemini.py
