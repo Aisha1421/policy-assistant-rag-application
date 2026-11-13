@@ -8,3 +8,4 @@ __pycache__/
 "@ | Set-Content .gitignoretest_models.py
 test_models.py
 test_gemini.py
+test_models.py
